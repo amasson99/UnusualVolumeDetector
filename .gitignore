@@ -4,3 +4,5 @@
 .idea/modules.xml
 .idea/misc.xml
 .idea/inspectionProfiles/profiles_settings.xml
+.idea/workspace.xml
+__pycache__/stocklist.cpython-37.pyc
